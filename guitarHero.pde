@@ -1,3 +1,5 @@
+//omg!!!
+
 import processing.opengl.*;
 
 import ddf.minim.*;
@@ -79,7 +81,7 @@ void draw()
 }
 
 
-
+//good job!
 
 
 
